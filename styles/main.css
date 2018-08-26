@@ -1,0 +1,43 @@
+main {
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+
+main .row {
+}
+
+.header-block{
+  width:100%;
+  background-color: orange;
+}
+
+.card {
+  text-align: left;
+  border: lightgrey 0.5px solid;
+  border-radius: 2px;
+}
+
+.card-image{
+  width:100%;
+}
+
+.card-description{
+  padding-left:15px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
